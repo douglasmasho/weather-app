@@ -225,8 +225,8 @@ function getBgPic(str){
         return data;
     })
     .then(data=>{
-        let picUrl = data.hits[1].largeImageURL;
-        changeBg(picUrl)
+        let picUrl = data.hits[0].largeImageURL;
+        changeBg(picUrl);
     })
 }
 
