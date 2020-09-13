@@ -1,5 +1,5 @@
 *{
-    font-family: "Rimouski";
+    font-family: "Raleway";
 }
 
 body{
@@ -155,4 +155,13 @@ body{
 
 .bg-color{
     background-color: rgba(0, 0, 0, 0.521);
+}
+
+.logoContainer{
+    text-align: center;
+    padding: 1rem;
+}
+
+.logoContainer img{
+    width: 10rem;
 }
