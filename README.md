@@ -1,4 +1,4 @@
-# DRIP Footwear
+# WEATHr
 ![Banner](./weathr.jpg )
 
 ## Description
